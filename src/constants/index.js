@@ -143,20 +143,20 @@ import {
     },
   ];
   
-  // const projects = [
-  //   {
-  //     name: "Rock Paper Scissor Game",
-  //     description:
-  //       "In this game,Players can choose between rock, paper, or scissors, and the game generates a random selection to determine the outcome,Provides an engaging user experience by displaying the result of each game round.",
-  //     tags: [
-  //       {
-  //         name: "react",
-  //         color: "blue-text-gradient",
-  //       },
-  //     ],
-  //     image: carrent,
-  //     source_code_link: "https://github.com/",
-  //   }
-  // ];
+  const projects = [
+    {
+      name: "Rock Paper Scissor Game",
+      description:
+        "In this game,Players can choose between rock, paper, or scissors, and the game generates a random selection to determine the outcome,Provides an engaging user experience by displaying the result of each game round.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+      ],
+      image: carrent,
+      source_code_link: "https://github.com/",
+    }
+  ];
   
   export { services, technologies, experiences, projects };
